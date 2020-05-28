@@ -1,7 +1,8 @@
 # Simple RASA Demo
 This repository aims to demonstrate how you can progress further from the
 simple RASA moodbot (the result of `rasa init`) to something that's
-actually useful in some sense.
+actually useful in the sense of having a user enter messages in a web-based
+widget on one side and running actions in an action server on the other side.
 
 For security reasons, it is not advisable to expose a RASA server or the
 action server to the open internet. This should help you to get started,
